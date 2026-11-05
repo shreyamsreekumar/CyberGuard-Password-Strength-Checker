@@ -1,41 +1,32 @@
- Password Strength Checker 
+CyberGuard – Password Strength Checker
+CyberGuard is a Python-based password strength checker with a graphical user interface (GUI). It helps users evaluate password strength and provides feedback to encourage better password security.
 
-Project Overview
+ Features
+- Simple and user-friendly graphical interface.
+- Password strength evaluation.
+- Strength score indicator.
+- Feedback for improving password security.
+- Checks against common passwords.
 
-The Password Strength Checker is a Python-based graphical application that evaluates password strength using predefined security rules. It provides feedback to help users create stronger passwords.
-
-Features
-
-- Graphical user interface with a dark theme.
-- Password visibility toggle.
-- Password strength indicator.
-- Checks for password length and character variety.
-- Basic detection of common passwords.
-- Suggestions for improving password strength.
-- Clear button to reset the application.
-
-Technologies Used
-
+ Technologies Used
 - Python
 - Tkinter
-- Regular Expressions
+
+ Screenshots
+ Screenshot 1.png.png
+ Screenshot 2.png.png
 
 How to Run
-
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project folder in VS Code.
+1. Download or clone this repository.
+2. Make sure Python is installed.
+3. Open the project folder.
 4. Run the following command:
+python password_checker_GUI.py
 
-python password_checker_gui.py
+Project Objective
+The objective of CyberGuard is to demonstrate basic password security concepts through a simple desktop application.
 
-Learning Outcomes
-
-- Practiced Python functions and conditional statements.
-- Learned to build a GUI using Tkinter.
-- Applied regular expressions to validate password characteristics.
-- Explored basic password security concepts.
-
-Disclaimer
-
-This is an educational project. Its rule-based score is a basic estimate and does not guarantee password security. Use sample passwords when testing.
+Developer
+Developed as a beginner cybersecurity project to explore Python programming and password security.
+ 
+ 
