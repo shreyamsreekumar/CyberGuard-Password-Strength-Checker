@@ -18,6 +18,7 @@ CyberGuard is a Python-based password strength checker with a graphical user int
  Screenshots
  
  Screenshot 1.png.png
+ 
  Screenshot 2.png.png
 
 How to Run
